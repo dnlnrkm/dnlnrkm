@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dnlnrkm B&W Banner 1.png" alt="dnlnrkm Banner" />
+</p>
+
 <h1 align="center">Hello! 👋 I am Danial Nurhakim.</h1>
 <h3 align="center">A Year 2 Cybersecurity & Digital Forensics student from Ngee Ann Polytechnic, Singapore with a Specialisation in Cloud Computing</h3>
 

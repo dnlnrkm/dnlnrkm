@@ -5,8 +5,6 @@
 <h1 align="center">Hello! 👋 I am Danial Nurhakim.</h1>
 <h3 align="center">A Year 2 Cybersecurity & Digital Forensics student from Ngee Ann Polytechnic, Singapore with a Specialisation in Cloud Computing</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dnlnrkm" alt="dnlnrkm" /></a> </p>
-
 - 🔭 I’m currently working on **building up my skills and knowledge in all realms of cybersecurity, programming and cloud computing!**
 
 - 🌱 I’m currently learning **CS50x (Harvard), building cybersecurity tools and building well-architected AWS infrastructure.**
